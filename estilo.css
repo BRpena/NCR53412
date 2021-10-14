@@ -1,0 +1,26 @@
+
+*{
+  margin: 0;
+  padding:0;
+  text-align: center;
+}
+#landing_navbar{
+  width: 25%;
+  height: 100%;
+
+  background:lightblue;
+}
+
+#navbar_logo{
+  margin:10px;
+}
+/*
+se crea la clase registro para poder tener control del bloque del boton de registro y asi poder darle un margin hacia abajo del bloque, para un efecto de pie de pagina.
+*/
+.registro{
+  margin-top: 100%;
+}
+
+#btn_irRegistro{
+  margin: 10px;
+}
